@@ -1,0 +1,18 @@
+car {
+  display: block;
+  border: 5px solid black;
+  padding: 35px;
+  background-color: pink;
+}
+year {
+  color: yellow;
+  font-weight: bolder;
+  size:60;
+}
+model {
+  color: red;
+  font-weight: 40;
+  font-family: arial black;
+
+}
+accessories{color: red;}

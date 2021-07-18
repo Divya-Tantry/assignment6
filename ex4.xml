@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href="ex4.xsl"?>
+<emp>
+<s>
+ <eno> 1001 </eno>
+ <name> 
+	<fname> Divya </fname>
+	<lname> D </lname>
+	<mname> R</mname>
+ </name>
+ <fathername> Ramesh Tantry </fathername>
+ <DOB> 02-08-1999</DOB>
+ <city> Manglore</city>
+ <state>Karnataka  </state>
+ <qualification> BCA </qualification>
+</s>
+<s>
+ <eno> 1002 </eno>
+ <name> 
+	<fname> Anusha </fname>
+	<lname> Shetty </lname>
+	<mname> R </mname>
+ </name>
+ <fathername> Manjunath Shetty </fathername>
+ <DOB> 20-02-1995 </DOB>
+ <city> Thaane </city>
+ <state> Maharashtra </state>
+ <qualification> MCA </qualification>
+</s>
+<s>
+ <eno> 1003 </eno>
+ <name> 
+	<fname> Himanshu</fname>
+	<lname> Kulakarni</lname>
+	<mname> D </mname>
+ </name>
+ <fathername> Dileep Kulakarni </fathername>
+ <DOB> 18-03-1867 </DOB>
+ <city> Chennai </city>
+ <state> TN </state>
+ <qualification>Doctor</qualification>
+</s>
+</emp>
+
+
